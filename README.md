@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Natã Pires</h1>
+<h1 align="center">Olá, eu sou o Natã Pires <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
 ## SOBRE MIM
 Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataformas para aprimorar meus conhecimentos e desenvolviomento na Área; 
@@ -6,7 +6,7 @@ No momento, estou à procura da minha primeira oportunidade como desenvolvedor.
 <div align="center">
   <a href="https://github.com/Natapires">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=swift" />
 </div>
   <div style="display: inline_block"><br>
  <img align="center" alt="Nata-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
