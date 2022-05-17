@@ -1,13 +1,15 @@
-## Olá, Eu sou o Natã Pires e estou procurando minha primeira oportunidade como desenvolvedor.
-- 🔭 Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataformas para aprimorar meus conhecimentos e desenvolviomento na Área. 
-- 🌱 Pela faculdade estou estudando C#
+<h1 align="center">Olá, eu sou o Natã Pires</h1>
+
+## SOBRE MIM
+Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataformas para aprimorar meus conhecimentos e desenvolviomento na Área; 
+No momento, estou à procurando da minha primeira oportunidade como desenvolvedor. 
 <div align="center">
-  <a href="https://github.com/Natapiresdev">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" width="560" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Natapires">
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&langs_count=7&theme=swift"/>
 </div>
   <div style="display: inline_block"><br>
- <img align="center" alt="Nata-Csharp" height="25" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align="center" alt="Nata-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div>    
   
   ##
