@@ -1,4 +1,4 @@
-Olá!! Eu sou o Natã Pires
+Olá!! Eu sou o Natã Pires, e estou procurando minha primeira oportunidade como desenvolvedor.
 
 - 🔭 No momento, não estou trabalhando na área
 - 🌱 Estou estudando C#
@@ -10,7 +10,7 @@ Olá!! Eu sou o Natã Pires
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
- <img align="center" alt="Nata-Csharp" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align="center" alt="Nata-Csharp" height="25" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div>    
   
   ##
