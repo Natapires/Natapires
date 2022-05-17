@@ -1,13 +1,13 @@
-Olá!! Eu sou o Natã Pires, e estou procurando minha primeira oportunidade como desenvolvedor.
+## Olá, Eu sou o Natã Pires e estou procurando minha primeira oportunidade como desenvolvedor.
 
-- 🔭 No momento, não estou trabalhando na área
-- 🌱 Estou estudando C#
+- 🔭 Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataformas para aprimorar meus conhecimentos e desenvolviomento na Área. 
+- 🌱 Pela faculdade estou estudando C#
 
 
 <div align="center">
   <a href="https://github.com/Natapiresdev">
-  <img height="180em" width="400"  src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="599" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   <div style="display: inline_block"><br>
  <img align="center" alt="Nata-Csharp" height="25" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
