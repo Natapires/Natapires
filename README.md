@@ -2,7 +2,7 @@
 
 ## SOBRE MIM
 Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataformas para aprimorar meus conhecimentos e desenvolviomento na Área; 
-No momento, estou à procurando da minha primeira oportunidade como desenvolvedor. 
+No momento, estou à procura da minha primeira oportunidade como desenvolvedor. 
 <div align="center">
   <a href="https://github.com/Natapires">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
