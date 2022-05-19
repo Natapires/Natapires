@@ -5,8 +5,8 @@ Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataform
 No momento, estou à procura da minha primeira oportunidade como desenvolvedor. 
 <div align="center">
   <a href="https://github.com/Natapires">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=swift" />
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=moltack" />
 </div>
   <div style="display: inline_block"><br>
  <img align="center" alt="Nata-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
