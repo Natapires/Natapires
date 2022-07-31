@@ -3,7 +3,7 @@
 ## ABOUT ME
 - Estudante de Ánalise e desenvolvimento de sistemas;
 - Utilizando a plataforma da RocketSeat para aprimorar meus conhecimentos e desenvolviomento na Área;
-- À Procura minha primeira oportunidade como DevJúnior.
+- À Procura da minha primeira oportunidade como DevJúnior.
 
 <div align="center">
   <a href="https://github.com/Natapires">
