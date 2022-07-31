@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Natã Pires <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
 ## ABOUT ME
-Estudante de Ánalise e desenvolvimento de sistemas, utilizando outras plataformas para aprimorar meus conhecimentos e desenvolviomento na Área; 
-No momento, estou à procura da minha primeira oportunidade como desenvolvedor. 
+- Estudante de Ánalise e desenvolvimento de sistemas;
+- Utilizando a plataforma da RocketSeat para aprimorar meus conhecimentos e desenvolviomento na Área;
+- À Procura minha primeira oportunidade como DevJúnior.
+
 <div align="center">
   <a href="https://github.com/Natapires">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
