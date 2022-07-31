@@ -10,8 +10,9 @@ No momento, estou à procura da minha primeira oportunidade como desenvolvedor.
 </div>
   <h2> &nbsp; Languages that are part of my Day-to-Day</h2>
   <div style="display: inline_block"><br>
- <img align="center" alt="Nata-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" alt="Nata-HTML5" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Natã-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align="center" alt="Natã-HTML5" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Natã-GIT" title="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>    
   
  
