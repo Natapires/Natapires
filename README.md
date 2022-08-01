@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Natã Pires <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
-## ABOUT ME
+## About me 
 - Estudante de Ánalise e desenvolvimento de sistemas;
 - Utilizando a plataforma da RocketSeat para aprimorar meus conhecimentos e desenvolviomento na Área;
 - À Procura da minha primeira oportunidade como DevJúnior.
@@ -10,7 +10,7 @@
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=moltack" />
 </div>
-  <h2> &nbsp; Languages that are part of my Day-to-Day</h2>
+  <h2> &nbsp; My Skills</h2>
   <div style="display: inline_block"><br>
  <img align="center" alt="Natã-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" alt="Natã-HTML5" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
