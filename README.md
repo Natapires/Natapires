@@ -3,6 +3,7 @@
 ## About me 
 - Estudante de Ánalise e desenvolvimento de sistemas;
 - Utilizando a plataforma da RocketSeat para aprimorar meus conhecimentos e desenvolviomento na Área;
+- Learning about HTML, CSS and JAVASCRIPT;
 - À Procura da minha primeira oportunidade como DevJúnior.
 
 <div align="center">
@@ -11,9 +12,10 @@
   <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=moltack" />
 </div>
   <h2> &nbsp; My Skills</h2>
-  <div style="display: inline_block"><br>
- <img align="center" alt="Natã-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" alt="Natã-HTML5" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <div style="display: inline_block"><br> 
+ <img align="center" alt="Natã-Csharp" title="CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align="center" alt="Natã-HTML5" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Natã-CSS" title="CSS" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="Natã-GIT" title="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>    
   
