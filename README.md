@@ -36,3 +36,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
   
+[![](https://visitcount.itsvg.in/api?id=Natapires&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
