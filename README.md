@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Natapires">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=moltack" />
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=modernist&include_all_commits=true&count_private=true"/>
+  <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=modernist" />
 </div>
   <h4> &nbsp;Minhas Habilidades / My skills </h4>
   <div style="display: inline_block"><br> 
