@@ -2,7 +2,7 @@
 
 ## Sobre mim / About me 
 - Estudante de Ánalise e desenvolvimento de sistemas;
-- Utilizando a plataforma da RocketSeat para aprimorar meus conhecimentos e desenvolviomento na Área;
+- Utilizando a plataforma da <a href="https://www.rocketseat.com.br"></a> Rocketseat para aprimorar meus conhecimentos e desenvolviomento na Área;
 - Learning about HTML, CSS and JAVASCRIPT;
 - À Procura da minha primeira oportunidade como DevJúnior.
 
