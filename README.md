@@ -60,11 +60,11 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href ="pires.nata1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nat%C3%A3-pires-7062281a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
   
 [![](https://visitcount.itsvg.in/api?id=Natapires&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-
+Obrigado pela visualização :)
