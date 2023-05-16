@@ -1,10 +1,13 @@
 <h1 align="center"> Olá, Eu sou Natã Pires <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
 ## Sobre mim / About me 
-- Estudante de Ánalise e desenvolvimento de sistemas;
-- Utilizando a plataforma da <a href="https://www.rocketseat.com.br">Rocketseat</a> para aprimorar meus conhecimentos e desenvolviomento na Área;
-- Learning about HTML, CSS and JAVASCRIPT;
-- À Procura da minha primeira oportunidade como DevJúnior.
+- Analista de desenvolvimento de sistemas;
+
+Sou consultor da AWS e tenho experiência em trabalhar com ambientes de diversos portes, desde pequenas startups até grandes empresas internacionais. Como profissional, sou capaz de lidar com complexidades técnicas e orientar meus clientes em todas as etapas do processo, desde a concepção até a implementação e gerenciamento contínuo de seus sistemas em nuvem.
+
+Tenho um histórico comprovado de sucesso em trabalhar com clientes nacionais e internacionais, demonstrando habilidades transculturais e capacidade de adaptação a diferentes ambientes de negócios.
+
+Minha experiência trabalhando com a AWS em diferentes setores e geografias me permitiu adquirir conhecimento profundo de como maximizar os serviços e recursos da AWS, a fim de ajudar meus clientes a atingir seus objetivos de negócios. Como consultor da AWS, sou altamente valorizado por meus clientes por meu conhecimento técnico e minha capacidade de entender suas necessidades e objetivos e fornecer soluções personalizadas que ajudam a impulsionar seus negócios.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
