@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, Eu sou Natã Pires <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
 ## Sobre mim / About me 
-- Analista de desenvolvimento de sistemas;
+- Analista de desenvolvimento de sistemas, DevOps Engineer;
 
 Sou consultor da AWS e tenho experiência em trabalhar com ambientes de diversos portes, desde pequenas startups até grandes empresas internacionais. Como profissional, sou capaz de lidar com complexidades técnicas e orientar meus clientes em todas as etapas do processo, desde a concepção até a implementação e gerenciamento contínuo de seus sistemas em nuvem.
 
