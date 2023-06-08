@@ -1,14 +1,11 @@
-<h1 align="center"> Olá, Eu sou Natã Pires <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
+<h1 align="center"> Hey  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
-## Sobre mim / About me 
-- Analista de desenvolvimento de sistemas, DevOps Engineer;
+Este é o Natã! Atualmente trabalho como DevOps Engineer na CloudDog 100% presencial, Consultor da AWS!
 
-Sou consultor da AWS e tenho experiência em trabalhar com ambientes de diversos portes, desde pequenas startups até grandes empresas internacionais. Como profissional, sou capaz de lidar com complexidades técnicas e orientar meus clientes em todas as etapas do processo, desde a concepção até a implementação e gerenciamento contínuo de seus sistemas em nuvem.
+O que me empolga no DevOps é a possibilidade de trabalhar com infraestruturas complexas, mas automatizar praticamente tudo em cima dela.
 
-Tenho um histórico comprovado de sucesso em trabalhar com clientes nacionais e internacionais, demonstrando habilidades transculturais e capacidade de adaptação a diferentes ambientes de negócios.
 
-Minha experiência trabalhando com a AWS em diferentes setores e geografias me permitiu adquirir conhecimento profundo de como maximizar os serviços e recursos da AWS, a fim de ajudar meus clientes a atingir seus objetivos de negócios. Como consultor da AWS, sou altamente valorizado por meus clientes por meu conhecimento técnico e minha capacidade de entender suas necessidades e objetivos e fornecer soluções personalizadas que ajudam a impulsionar seus negócios.
-
+<!--
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
@@ -16,7 +13,7 @@ Minha experiência trabalhando com a AWS em diferentes setores e geografias me p
     </td>
     <td style="border: 0";>
       <p>
-        💻 Procuro sempre estar focado em contéudo de qualidade sobre programação e tecnologia em geral.
+        💻 Procuro sempre estar focado em contéudo de qualidade sobre tecnologia em geral.
       </p>
       <h3>Other places you can find me</h3>
       <ul>
@@ -33,24 +30,24 @@ Minha experiência trabalhando com a AWS em diferentes setores e geografias me p
     </td>
   </tr>
 </table>
+//-->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Natapires">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=dark" />
-</div>
+  <!--<img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=dark" />
+</div>//-->
   
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natapires&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Natapires&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
   
   <h4> &nbsp;Minhas Habilidades / My skills </h4>
   <div style="display: inline_block"><br> 
- <img align="center" alt="Natã-Csharp" title="CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
- <img align="center" alt="Natã-HTML5" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Natã-CSS" title="CSS" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <!--<img align="center" alt="Natã-GIT" title="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">-->
- <!--<img align="center" alt="Natã-Figma" title="FIGMA" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />-->
-          
+<img align="center" alt="Natã-AWS" title="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="center" alt="Natã-LINUX" title="LINUX" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Natã-JIRA" title="JIRA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img align="center" alt="Natã-Docker" title="DOCKER" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<!--<img align="center" alt="Natã-terraform" title="TERRAFORM" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />//-->
   </div>    
    
   
