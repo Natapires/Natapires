@@ -1,4 +1,4 @@
-<h1 align="center"> Hey  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
+<h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
 Este é o Natã! Atualmente trabalho como DevOps Engineer na CloudDog 100% presencial, Consultor da AWS!
 
