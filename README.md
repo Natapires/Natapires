@@ -1,8 +1,8 @@
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
-Este é o Natã! Atualmente trabalho como DevOps Engineer na CloudDog 100% presencial, Consultor da AWS!
+Este é o Natã! Atualmente trabalha como Desenvolvedor de Software freelancer!
 
-O que me empolga no DevOps é a possibilidade de trabalhar com infraestruturas complexas, mas automatizar praticamente tudo em cima dela.
+Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta.
 
 Durante meu tempo livre, gosto de codar, estudar programação, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
 
