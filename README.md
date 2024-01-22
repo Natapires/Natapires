@@ -4,7 +4,7 @@ Este é o Natã! Atualmente trabalha como Desenvolvedor de Software freelancer!
 
 Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta.
 
-Durante meu tempo livre, gosto de codar, estudar programação, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
+Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
 
 
 <!--
