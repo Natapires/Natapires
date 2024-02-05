@@ -32,13 +32,7 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
     </td>
   </tr>
 </table>
-//-->
-
-<div align="left">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=dark" />
-</div>//-->
-  
+//-->  
   <h4> &nbsp;Minhas Habilidades / My skills </h4>
   <div style="display: inline_block"><br> 
 <img align="center" alt="Natã-AWS" title="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
