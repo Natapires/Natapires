@@ -35,7 +35,6 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
 //-->
 
 <div align="left">
-  <a href="https://github.com/Natapires">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" width= "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&theme=dark" />
 </div>//-->
