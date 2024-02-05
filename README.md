@@ -46,7 +46,6 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
   <h4> &nbsp;Minhas Habilidades / My skills </h4>
   <div style="display: inline_block"><br> 
 <img align="center" alt="Natã-AWS" title="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="center" alt="Natã-LINUX" title="LINUX" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Natã-C#" title="Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />    
 <img align="center" alt="Natã-HTML" title="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="Natã-CSS" title="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
