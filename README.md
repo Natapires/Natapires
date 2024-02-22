@@ -54,11 +54,6 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
  ### Estudando no momento / Studying in this moment:         
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-          
-          
-          
-          
-<!--<img align="center" alt="Natã-terraform" title="TERRAFORM" height"40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />//-->
   </div>    
    
   
