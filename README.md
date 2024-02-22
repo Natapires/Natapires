@@ -1,6 +1,6 @@
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
-Este é o Natã! Atualmente trabalha como Desenvolvedor de Software freelancer!
+Este é o Natã! Atualmente formado em Analise e Desenvolvimento de Sistema, procurando sua primeira oportunidade como Desenvolvedor de Software!
 
 Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta.
 
@@ -68,4 +68,4 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
   
 [![](https://visitcount.itsvg.in/api?id=Natapires&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-Obrigado pela visualização :)
+Obrigado pela visita :)
