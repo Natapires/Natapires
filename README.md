@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=header"/>
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
-Este é o Natã! Atualmente formado em Analise e Desenvolvimento de Sistema, procurando sua primeira oportunidade como Desenvolvedor de Software!
+Este é o Natã! Atualmente formado em Analise e Desenvolvimento de Sistema, atuou como DevOps em um estagio.
+O DevOps veio para aprimorar os meus conhecimentos em tecnologias e quão abrangente é a area de TI, me mostrou a capacidade de desenvolver grandes projetos, para todos os tipos de empresa. Hoje procuro a minha primeira oportunidade como Desenvolvedor de Software, assim podendo implementar o conhecimento adquirido para futuros desenvolvimentos.
 
 Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta.
 
