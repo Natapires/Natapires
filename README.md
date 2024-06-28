@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=header"/>
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
-Este é o Natã! Atualmente formado em Analise e Desenvolvimento de Sistema, atuou como DevOps em um estagio.
-O DevOps veio para aprimorar os meus conhecimentos em tecnologias e quão abrangente é a area de TI, me mostrou a capacidade de desenvolver grandes projetos, para todos os tipos de empresa. Hoje procuro a minha primeira oportunidade como Desenvolvedor de Software, assim podendo implementar o conhecimento adquirido para futuros desenvolvimentos.
+Este é o Natã!
+Formado em Analise e Desenvolvimento de Sistema, desenvolvedor .NET C# conhecimentos certificado por um bootcamp pela empresa DIO, atualemente em formação C# pela Rocketseat; 
 
-Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta.
+<a href="https://app.rocketseat.com.br/me/nata-pires-01202"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nata-pires-01202&type=card" width="280" alt="Natã Pires Ferreira's Rocket ID"/></a>
 
-Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
+Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta. Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natapires&bg_color=0d1117&color=3333FF&line=3333FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -47,7 +47,6 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
 <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -60,10 +59,8 @@ Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros,
 <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
  ### 🚀 Studying in this moment:         
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="C-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />   
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
   </div>    
    
