@@ -2,7 +2,7 @@
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
 Este é o Natã!
-Formado em Analise e Desenvolvimento de Sistema, desenvolvedor .NET C# conhecimentos certificado por um bootcamp pela empresa DIO, atualemente em formação C# pela Rocketseat; 
+Formado em Analise e Desenvolvimento de Sistema, desenvolvedor .NET C# conhecimentos certificado por um bootcamp pela empresa <a href="https://www.dio.me/" target="_blank">Dio.me</a>, atualmente em formação C# pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
 
 <a href="https://app.rocketseat.com.br/me/nata-pires-01202"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nata-pires-01202&type=card" width="280" alt="Natã Pires Ferreira's Rocket ID"/></a>
 
