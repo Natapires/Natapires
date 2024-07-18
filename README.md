@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=header"/>
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
 Este é o Natã!
@@ -79,6 +78,4 @@ Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecn
   
 [![](https://visitcount.itsvg.in/api?id=Natapires&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-Obrigado pela visita :)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=footer"/>
+Obrigado pela visita :) 
