@@ -3,15 +3,18 @@
 Este é o Natã!
 Formado em Analise e Desenvolvimento de Sistema, desenvolvedor .NET C# conhecimentos certificado por um bootcamp pela empresa <a href="https://www.dio.me/" target="_blank">Dio.me</a>, atualmente em formação C# pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
 
-<a href="https://app.rocketseat.com.br/me/nata-pires-01202"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nata-pires-01202&type=card" width="280" alt="Natã Pires Ferreira's Rocket ID"/></a>
-
 Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta. Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natapires&bg_color=0d1117&color=3333FF&line=3333FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natapires&bg_color=0d1117&color=3333FF&line=3333FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&count_private=true&hide_border=true&title_color=FBFCFC&icon_color=FBFCFC&text_color=c9d1d9&bg_color=0d1117" alt="Nata Pires github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&count_private=true&hide_border=true&title_color=FBFCFC&icon_color=FBFCFC&text_color=c9d1d9&bg_color=0d1117" alt="Nata Pires github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&hide_border=true&title_color=FBFCFC&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <p>ALUNO ROCKETSEAT NEVER STOP LEARNING 🚀</p>
+  <a href="https://app.rocketseat.com.br/me/nata-pires-01202"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nata-pires-01202&type=card" width="280" alt="Natã Pires Ferreira's Rocket ID"/></a>
 </div>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -73,9 +76,9 @@ Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecn
   <a href="https://www.linkedin.com/in/nat%C3%A3-pires-7062281a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
   
-[![](https://visitcount.itsvg.in/api?id=Natapires&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Natapires&label=Visualiza%C3%A7%C3%B5es&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)-->
 
 Obrigado pela visita :) 
