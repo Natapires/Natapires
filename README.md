@@ -1,9 +1,12 @@
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
-Este é o Natã!
-Formado em Analise e Desenvolvimento de Sistema, desenvolvedor .NET C# conhecimentos certificado por um bootcamp pela empresa <a href="https://www.dio.me/" target="_blank">Dio.me</a>, atualmente em formação C# pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>
+<h3>Sobre Natã</h3>
+Formado em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor .NET C# junior, certificado por um bootcamp na <a href="https://www.dio.me/" target="_blank">Dio.me</a> e atualmente aprimorando minhas habilidades em C# pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Com uma paixão por transformar ideias inovadoras em soluções tecnológicas de ponta, trago um olhar criativo e técnico para cada projeto.
 
-Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta. Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
+<h3>O que me motiva</h3>
+Acredito que a tecnologia tem o poder de mudar o mundo, e estou sempre em busca de novas maneiras de fazer isso acontecer. Nos meus momentos livres, gosto de me dedicar aos meus estudos, fazer meu devocional diário, ler livros inspiradores e sobre tecnologia, jogar futebol com amigos, frequentar a academia, assistir a filmes e séries, e passar tempo de qualidade com meus entes queridos.
+
+Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa.
 
 <div align="center">
   <p><b>ALUNO ROCKETSEAT, NEVER STOP LEARNING<b> 🚀</p>
