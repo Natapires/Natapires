@@ -5,6 +5,11 @@ Formado em Analise e Desenvolvimento de Sistema, desenvolvedor .NET C# conhecime
 
 Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta. Durante meu tempo livre, gosto de fazer meu devocional diário, ler bons livros, jogar futebol com meus amigos, ir à academia, assistir filmes/séries, e passar tempo com meus entes queridos.
 
+<div align="center">
+  <p><b>ALUNO ROCKETSEAT, NEVER STOP LEARNING<b> 🚀</p>
+  <a href="https://app.rocketseat.com.br/me/nata-pires-01202"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nata-pires-01202&type=card" width="280" alt="Natã Pires Ferreira's Rocket ID"/></a>
+</div>
+
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natapires&bg_color=0d1117&color=3333FF&line=3333FF&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <div align="center">  
@@ -12,12 +17,7 @@ Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecn
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&hide_border=true&title_color=FBFCFC&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <p>ALUNO ROCKETSEAT NEVER STOP LEARNING 🚀</p>
-  <a href="https://app.rocketseat.com.br/me/nata-pires-01202"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=nata-pires-01202&type=card" width="280" alt="Natã Pires Ferreira's Rocket ID"/></a>
-</div>
-
-<table border="0" cellspacing="0" cellpadding="0">
+<!--<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
@@ -40,7 +40,7 @@ Um desenvolvedor apaixonado por transformar ideias inovadoras em soluções tecn
       </ul>
     </td>
   </tr>
-</table>
+</table>-->
 
   ### ⚡ Technologies Stack
   <div style="display: inline_block"><br> 
