@@ -56,7 +56,6 @@ Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e 
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ## 👨🏾‍💻 Backend
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-00A4CC?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="C-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />   
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
