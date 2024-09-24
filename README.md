@@ -1,8 +1,7 @@
 <h2 align="left"> Hey there! Welcome  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> </h2>
 
-<h3>Sobre Natã</h3>
-Formado em Análise e Desenvolvimento de Sistemas, sou um desenvolvedor .NET C# junior, certificado por um bootcamp na <a href="https://www.dio.me/" target="_blank">Dio.me</a> e atualmente aprimorando minhas habilidades em C# pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Com uma paixão por transformar ideias inovadoras em soluções tecnológicas de ponta, trago um olhar criativo e técnico para cada projeto. 
-Durante meu estágio em uma consultoria AWS, atuei como DevOps, aplicando práticas ágeis e utilizando diversos serviços AWS para otimizar e automatizar processos.
+<h3>Sobre o Natã</h3>
+Sou formado em Análise e Desenvolvimento de Sistemas e estou em transição de carreira de auxiliar administrativo para desenvolvedor de software. Atuo como desenvolvedor .NET C# júnior, certificado por um bootcamp na <a href="https://www.dio.me/" target="_blank">Dio.me</a>, e sigo aprimorando minhas habilidades em C# na formação da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Além disso, estou concluindo um bootcamp intermediário de C# com foco em banco de dados NoSQL também pela <a href="https://www.dio.me/" target="_blank">Dio.me</a>. Sou apaixonado por transformar ideias inovadoras em soluções tecnológicas de ponta, trazendo uma abordagem criativa e técnica para cada projeto. Durante meu estágio em uma consultoria AWS, atuei como DevOps, aplicando práticas ágeis e utilizando serviços AWS para otimizar e automatizar processos. Atualmente, estou iniciando um MBA em Engenharia de Software pela USP Esalq, buscando consolidar meus conhecimentos e enfrentar novos desafios na área de tecnologia.
 
 <h3>O que me motiva</h3>
 Acredito que a tecnologia tem o poder de mudar o mundo, e estou sempre em busca de novas maneiras de fazer isso acontecer. Nos meus momentos livres, gosto de me dedicar aos meus estudos, fazer meu devocional diário, ler livros inspiradores e sobre tecnologia, jogar futebol com amigos, frequentar a academia, assistir a filmes e séries, e passar tempo de qualidade com meus entes queridos.
@@ -47,49 +46,49 @@ Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e 
 </table>-->
 
 ## OS 💻
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="center" alt="Linux" src="https://skillicons.dev/icons?i=linux" />
 
 ## 👨🏾‍💻 Frontend
   <div style="display: inline_block"><br> 
-<img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
+<img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
+<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
 
 ## 👨🏾‍💻 Backend
-<img align="center" alt="C-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />   
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
+<img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
 
 ## ⛁ Database
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+<img align="center" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+<img align="center" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
 
 ## ☁️ Cloud 
-<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img align="center" alt="AWS" src="https://skillicons.dev/icons?i=aws" />
+<img align="center" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" />
 
 ## ⚡ Stacks 
-<img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img align="center" alt="Npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-<img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-<img align="center" alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+<img align="center" alt="Notion" src="https://skillicons.dev/icons?i=notion" />
+<img align="center" alt="Git" src="https://skillicons.dev/icons?i=git" />
+<img align="center" alt="GitHub" src="https://skillicons.dev/icons?i=github" />
+<img align="center" alt="Npm" src="https://skillicons.dev/icons?i=npm" />
+<img align="center" alt="Markdown" src="https://skillicons.dev/icons?i=md" />
+<img align="center" alt="Yarn" src="https://skillicons.dev/icons?i=yarn" />
 
 ## 🚀 Studying in this moment   
-<img align="center" alt="C-sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />   
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
+<img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
+<img align="center" alt=".NET" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="center" alt=".NET" src="https://skillicons.dev/icons?i=azure" />
   </div>    
    
   
  
 ## <h4> 📱 For contact </h4>
 </div>
- <a href="https://wa.me/+5511961659045"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.twitch.tv/eunatapires" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/natapiresferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/natapiresferreira/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+ <a href="mailto:contatonatapires@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
 </div>
 
 <!--### ✍️ Random Dev Quote
