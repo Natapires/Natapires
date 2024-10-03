@@ -19,7 +19,7 @@ Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e 
 </div> -->
 
 
-## Tecnologias 👨🏾‍💻
+## 👨🏾‍💻 Tecnologias 
   <div style="display: inline_block"><br> 
 <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
 <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
@@ -27,7 +27,7 @@ Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e 
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
 
-## ⛁ Database
+## ⛁ Banco de Dados
 <img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
 <img align="center" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
 <img align="center" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
@@ -37,7 +37,7 @@ Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e 
 <img align="center" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" />
 
 
-## 🚀 Studying in this moment   
+## 🚀 Estudando no momento 
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
