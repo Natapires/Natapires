@@ -3,7 +3,7 @@
 • 🎓 Cursando MBA em Engenharia de Software na USP/Esalq <br>
 • 🏢 Software Developer (Back-end) em transição de carreira <br>
 • 🧰 Eu desenvolvo com: C# .NET, JavaScript ...<br>
-• ⚡ Gosto de Ler, Jogar futebol, e ir a academia :) <br>
+• ⚡ Gosto de ler, jogar futebol, e ir a academia :) <br>
 • 📫 Entre em contato comigo: contatonatapires@gmail.com <br>
 
 Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa.
