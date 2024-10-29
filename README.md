@@ -35,9 +35,7 @@ Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e 
 ## 🚀 Estudando no momento 
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
-<!--<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>-->
-<img align="center" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
-<img align="center" alt="AZURE" src="https://skillicons.dev/icons?i=azure" />
-<!--<img align="center" alt="Python" src="https://skillicons.dev/icons?i=python" />
-<img align="center" alt="Django" src="https://skillicons.dev/icons?i=django" />-->
+<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
+<!--<img align="center" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="center" alt="AZURE" src="https://skillicons.dev/icons?i=azure" />-->
   </div>    
