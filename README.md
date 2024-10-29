@@ -1,6 +1,5 @@
 <h2 align="left"> Hey there! </h2>
 
-• 🎓 Cursando MBA em Engenharia de Software na USP/Esalq <br>
 • 🏢 Software Developer (Back-end) em transição de carreira <br>
 • 🧰 Eu desenvolvo com: C# .NET, JavaScript ...<br>
 • ⚡ Gosto de ler, jogar futebol, e ir a academia :) <br>
