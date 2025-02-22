@@ -1,41 +1,32 @@
-<h2 align="left"> Hey there! </h2>
+<h2 align="left"> 👋 Olá, eu sou o Natã, um desenvolvedor back-end apaixonado pelo que faz!</h2>
 
-• 🏢 Software Developer (Back-end) em transição de carreira <br>
-• 🧰 Eu desenvolvo com: C# .NET, JavaScript ...<br>
-• ⚡ Gosto de ler, jogar futebol, e ir a academia :) <br>
-• 📫 Entre em contato comigo: contatonatapires@gmail.com <br>
+## 👨🏾‍💻 About Me
+• 👨🏾‍💻 Minha jornada na tecnologia começou aos 23 anos, durante uma pandemia, quando comecei a explorar o mundo da tecnologia. Meu primeiro contato com os códigos foi por meio dos curos gratuitos da Fundação Bradesco, onde iniciei aprendendo HTML, uma linguagem Markdown. Esse pequeno passo despertou minha curiosidade e me fez querer entender mais sobre programação. Com o fim da pandemia e o retorno ao trabalho na área administrativa, decidi dar um passo maior: Ingressei na faculdade de Análise e Desenvolvimento de Sistemas. Foi nesse momento que tudo mudou. Mergulhei de cabeça no mundo da tecnologia e percebi que era isso que eu queria para minha vida — eu queria me tornar um programador. <br>
 
-Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa.
+• 🚀 Desde então, minha principal prioridade tem sido a área de desenvolvimento Back-End. Estou em um processo de transição de carreira, saindo da área administrativa para me tornar um desenvolvedor. Para isso, tenho me dedicado ao aprendizado contínuo e focado em aprimorar minhas habilidades com a stack (C# e .NET), buscando evoluir oara me tornar um profissional completo na área.
 
+• ⚽ Além da tecnologia, sou apaixonado por futebol e academia. No meu tempo livre, gosto de jogar bola com meus amigos e treinar, pois são formas de me divertir e esvaziar a cabeça 
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Natapires&show_icons=true&count_private=true&hide_border=true&title_color=FBFCFC&icon_color=FBFCFC&text_color=c9d1d9&bg_color=0d1117" alt="Nata Pires github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natapires&layout=compact&hide_border=true&title_color=FBFCFC&text_color=ff91a4&bg_color=0d1117" />
-</div> -->
+• 💵   Também gosto muito de investimentos, do mercado financeiro e de economia.
 
+## <h3 align="center"> 🛠️ Languages and Tools</h3>
 
-## 👨🏾‍💻 Tecnologias 
-  <div style="display: inline_block"><br> 
+  <div style="display: inline_block" align="center"><br> 
 <img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
 <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
 <img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
-
-## ⛁ Banco de Dados
 <img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
 <img align="center" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
-<img align="center" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
-
-## ☁️ Cloud 
+<img align="center" alt="Rider" src="https://skillicons.dev/icons?i=rider" />
+<img align="center" alt="VsCode" src="https://skillicons.dev/icons?i=vscode" />
 <img align="center" alt="AWS" src="https://skillicons.dev/icons?i=aws" />
-<!--<img align="center" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" />-->
+<img align="center" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" /> 
+<img align="center" alt="Linux" src="https://skillicons.dev/icons?i=linux" /><br>
 
+## 📫 Contato
+• Entre em contato comigo: contatonatapires@gmail.com <br>
 
-## 🚀 Estudando no momento 
-<img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
-<img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
-<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
-<!--<img align="center" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
-<img align="center" alt="AZURE" src="https://skillicons.dev/icons?i=azure" />-->
+Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa.
   </div>    
