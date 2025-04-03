@@ -28,8 +28,6 @@
 <img align="center" alt="Linux" src="https://skillicons.dev/icons?i=linux" /><br>
 
 ##
-<h3 align="center"> 📫 Contato</h3>
-• Entre em contato comigo: contatonatapires@gmail.com <br>
 
 Como desenvolvedor, estou sempre em busca de desafios que me permitam crescer e contribuir de forma significativa.
   </div>    
