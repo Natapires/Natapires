@@ -14,9 +14,9 @@
 ## <h3 align="center"> 🛠️ Languages and Tools</h3>
 
   <div style="display: inline_block" align="center"><br> 
-<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
+<!--<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
 <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
-<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
+<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>-->
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
