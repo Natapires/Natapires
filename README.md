@@ -1,9 +1,13 @@
 <h2 align="left"> 👋 Olá, eu sou o Natã, um desenvolvedor back-end apaixonado pelo que faz!</h2>
 
 ## 👨🏾‍💻 About Me
-• 👨🏾‍💻 Minha jornada na tecnologia começou aos 23 anos, durante uma pandemia, quando comecei a explorar o mundo da tecnologia. Meu primeiro contato com os códigos foi por meio dos cursos gratuitos da Fundação Bradesco, onde iniciei aprendendo HTML, uma linguagem Markdown. Esse pequeno passo despertou minha curiosidade e me fez querer entender mais sobre programação. Com o fim da pandemia e o retorno ao trabalho na área administrativa, decidi dar um passo maior: Ingressei na faculdade de Análise e Desenvolvimento de Sistemas. Foi nesse momento que tudo mudou. Mergulhei de cabeça no mundo da tecnologia, conheci a <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat.</a> com seus cursos de programação e percebi que era isso que eu queria para minha vida — eu queria me tornar um programador. <br>
+• 👨🏾‍💻 Minha jornada na tecnologia começou aos 23 anos, durante a pandemia, quando comecei a explorar o mundo da tecnologia. Meu primeiro contato com os códigos foi por meio dos cursos gratuitos da Fundação Bradesco, onde iniciei aprendendo HTML e uma linguagem Markdown. Esse pequeno passo despertou minha curiosidade e me fez querer entender mais sobre programação.
 
-• 🚀 Desde então, minha principal prioridade tem sido a área de desenvolvimento Back-End. Estou em um processo de transição de carreira, saindo da área administrativa para me tornar um desenvolvedor. Para isso, tenho me dedicado ao aprendizado contínuo e focado em aprimorar minhas habilidades com a stack (C# e .NET), buscando evoluir para me tornar um profissional completo na área.
+Com o fim da pandemia e o retorno ao trabalho na área administrativa, decidi dar um passo maior: ingressei na faculdade de Análise e Desenvolvimento de Sistemas. Foi nesse momento que tudo mudou. Mergulhei de cabeça no mundo da tecnologia, conheci a Rocketseat com seus cursos de programação e percebi que era isso que eu queria para minha vida — eu queria me tornar um programador.<br>
+
+• 🚀 Hoje atuo profissionalmente na área de tecnologia, com foco em implantação da linha Protheus (TOTVS), onde realizo parametrizações, suporte e customizações em módulos do sistema. Tenho estudado e aplicado Python e ADVPL para automações e desenvolvimento de funcionalidades personalizadas dentro do ERP, ampliando minha capacidade técnica e domínio sobre os processos internos.
+
+•  👨‍💻 Paralelamente, sigo aprofundando meus conhecimentos em desenvolvimento Back-End com C# e .NET, além de estudar Python com foco em automação, testes e back-end. Estou constantemente criando projetos próprios, explorando boas práticas, arquitetura de software e deploy em nuvem com soluções modernas e escaláveis.
 
 • 🎓 Formado em Análise e Desenvolvimento de Sistemas, AWS Certified Cloud Practitioner, Certificação de Bootcamp .NET Developer pela <a href="https://www.dio.me/bootcamp" target="_blank">Dio.me</a>, Certificados de conclusão de cursos (C# .NET) pela <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat.</a>
 
@@ -16,9 +20,11 @@
   <div style="display: inline_block" align="center"><br> 
 <!--<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
 <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
-<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>-->
+<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
+<img align="center" alt="ADVPL" src="https://img.shields.io/badge/ADVPL-TOTVS-002776?style=for-the-badge&logo=totvs&logoColor=white" />-->
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
+<img align="center" alt="Python" src="https://skillicons.dev/icons?i=python" />
 <img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
 <img align="center" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
 <img align="center" alt="Rider" src="https://skillicons.dev/icons?i=rider" />
