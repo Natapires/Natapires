@@ -20,16 +20,17 @@ Com o fim da pandemia e o retorno ao trabalho na área administrativa, decidi da
   <div style="display: inline_block" align="center"><br> 
 <!--<img align="center" alt="Html" src="https://skillicons.dev/icons?i=html"/>
 <img align="center" alt="Css" src="https://skillicons.dev/icons?i=css"/>
-<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>
-<img align="center" alt="ADVPL" src="https://img.shields.io/badge/ADVPL-TOTVS-002776?style=for-the-badge&logo=totvs&logoColor=white" />-->
+<img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>-->
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
 <img align="center" alt="Python" src="https://skillicons.dev/icons?i=python" />
+<img align="center" alt="SQL Server" height="45" width="45" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg">
 <img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
 <img align="center" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
 <img align="center" alt="Rider" src="https://skillicons.dev/icons?i=rider" />
 <img align="center" alt="VsCode" src="https://skillicons.dev/icons?i=vscode" />
 <img align="center" alt="AWS" src="https://skillicons.dev/icons?i=aws" />
+<img align="center" alt="Azure" src="https://skillicons.dev/icons?i=azure" />
 <img align="center" alt="Vercel" src="https://skillicons.dev/icons?i=vercel" /> 
 <img align="center" alt="Linux" src="https://skillicons.dev/icons?i=linux" /><br>
 
