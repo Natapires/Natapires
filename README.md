@@ -7,7 +7,7 @@ Com o fim da pandemia e o retorno ao trabalho na área administrativa, decidi da
 
 • 🚀 Hoje atuo profissionalmente na área de tecnologia, com foco em implantação da linha Protheus (TOTVS), onde realizo parametrizações, suporte e customizações em módulos do sistema. Tenho estudado e aplicado Python e ADVPL para automações e desenvolvimento de funcionalidades personalizadas dentro do ERP, ampliando minha capacidade técnica e domínio sobre os processos internos.
 
-•  👨‍💻 Paralelamente, sigo aprofundando meus conhecimentos em desenvolvimento Back-End com C# e .NET, além de estudar Python com foco em automação, testes e back-end. Estou constantemente criando projetos próprios, explorando boas práticas, arquitetura de software e deploy em nuvem com soluções modernas e escaláveis.
+•  👨‍💻 Paralelamente, sigo aprofundando meus conhecimentos em desenvolvimento Back-End com C# para me especializar na tecnologia. Estou constantemente criando projetos próprios, explorando boas práticas, arquitetura de software e deploy em nuvem com soluções modernas e escaláveis.
 
 • 🎓 Formado em Análise e Desenvolvimento de Sistemas, AWS Certified Cloud Practitioner, Certificação de Bootcamp .NET Developer pela <a href="https://www.dio.me/bootcamp" target="_blank">Dio.me</a>, Certificados de conclusão de cursos (C# .NET) pela <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat.</a>
 
@@ -23,7 +23,6 @@ Com o fim da pandemia e o retorno ao trabalho na área administrativa, decidi da
 <img align="center" alt="Javascript" src="https://skillicons.dev/icons?i=js"/>-->
 <img align="center" alt="C-sharp" src="https://skillicons.dev/icons?i=cs" />   
 <img align="center" alt=".NET" src="https://skillicons.dev/icons?i=dotnet" />
-<img align="center" alt="Python" src="https://skillicons.dev/icons?i=python" />
 <img align="center" alt="SQL Server" height="45" width="45" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL%20Server.svg">
 <img align="center" alt="MySQL" src="https://skillicons.dev/icons?i=mysql" />
 <img align="center" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
