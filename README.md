@@ -19,11 +19,11 @@ Formado em Análise e Desenvolvimento de Sistemas, com foco atual em construçã
 | Área | Tecnologias |
 |---|---|
 | Linguagem | Python · SQL · ADVPL · C# |
-| Banco de dados | PostgreSQL · MySQL · SQL Server |
-| Cloud | AWS (S3, EC2, RDS) |
+| Banco de dados | PostgreSQL · MySQL · SQL Server · MongoDB |
+| Cloud | AWS (S3, EC2, ECS, RDS,) |
 | Dados | pandas · ETL · pipelines |
 | ERP | Protheus TOTVS |
-| Ferramentas | Git · Linux · VS Code |
+| Ferramentas | Git · Linux · VS Code · Rider |
 
 ---
 
