@@ -109,14 +109,6 @@ Quando não estou estudando ou programando, gosto de:
 
 ---
 
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=natapires&theme=visual-studio-dark"/>
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 Estou sempre aberto para conversar sobre desenvolvimento de software, arquitetura, cloud e tecnologia.
