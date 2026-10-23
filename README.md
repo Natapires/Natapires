@@ -78,7 +78,7 @@ Minha atuação combina conhecimento funcional do ERP com atividades técnicas d
 ### Cloud & Ferramentas
 
 `AWS`
-`GCP
+`GCP`
 `Git`
 `GitHub`
 
