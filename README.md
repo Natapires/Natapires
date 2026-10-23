@@ -29,13 +29,17 @@ Acredito que escrever código vai muito além de fazer uma aplicação funcionar
 
 ### Técnico de Implantação Protheus (TOTVS)
 
-* Implantação e parametrização do ERP Protheus
-* Configuração de módulos fiscais, estoque e compras
-* Configurador de Tributos para a Reforma Tributária
-* Levantamento de requisitos
-* Suporte técnico e análise de regras de negócio
+Atuação na implantação, administração e sustentação do ERP TOTVS Protheus, com foco no gerenciamento de ambientes, configurações do sistema e apoio às integrações com aplicações externas.
 
-Essa vivência me permitiu compreender profundamente como grandes sistemas corporativos funcionam e como a tecnologia apoia processos críticos das empresas.
+**Principais responsabilidades:**
+
+- Implantação, parametrização e suporte ao ERP TOTVS Protheus.
+- Gerenciamento de ambientes no TOTVS TCloud, abrangendo Desenvolvimento, Qualidade e Produção.
+- Administração e configuração do ambiente por meio do Configurador Protheus (SIGACFG).
+- Suporte às integrações entre soluções TOTVS e sistemas externos utilizando plataformas iPaaS.
+- Levantamento de requisitos, análise de regras de negócio e resolução de demandas técnicas e operacionais.
+
+Minha atuação combina conhecimento funcional do ERP com atividades técnicas de gerenciamento de ambientes e integração de sistemas, contribuindo para a estabilidade operacional e o funcionamento dos processos corporativos.
 
 ---
 
