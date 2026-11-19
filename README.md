@@ -1,10 +1,14 @@
 # Olá, eu sou o Natã Pires! 👋
 
-Sou apaixonado por tecnologia e por transformar problemas de negócio em soluções através de software.
+Sou um profissional de tecnologia apaixonado por desenvolvimento de software, arquitetura de sistemas e pela construção de soluções que transformam problemas de negócio em tecnologia.
 
-Atualmente atuo como **Técnico de Implantação Protheus (TOTVS)**, participando da implantação, configuração e suporte de sistemas ERP para empresas de diferentes segmentos. Essa experiência me proporcionou uma visão aprofundada sobre processos corporativos, regras fiscais e integração entre sistemas.
+Atualmente atuo como Técnico de Implantação Protheus (TOTVS), trabalhando com implantação, administração e sustentação de ambientes ERP, gerenciamento de infraestrutura no TOTVS Cloud (TCloud), configurações do sistema e suporte a integrações entre aplicações.
 
-Meu objetivo profissional é atuar como **Engenheiro de Software**, desenvolvendo aplicações escaláveis, APIs e sistemas robustos que gerem impacto real para pessoas e empresas.
+Também participo de atividades relacionadas ao desenvolvimento, incluindo compilação de RDMakes, atualização de fontes ADVPL e validação de APIs REST utilizando Postman.
+
+Minha experiência com sistemas corporativos me proporciona uma visão prática sobre o funcionamento de aplicações, infraestrutura, integrações e necessidades de negócio.
+
+Meu objetivo profissional é construir minha carreira como Engenheiro de Software, com foco em desenvolvimento Back-end, arquitetura de software e construção de aplicações escaláveis, eficientes e de fácil manutenção.
 
 ---
 
@@ -15,6 +19,7 @@ Minha jornada é voltada para Engenharia de Software, buscando aprofundar conhec
 Atualmente estou estudando e desenvolvendo projetos envolvendo:
 
 * Desenvolvimento Back-End com **C# e .NET**
+* Desenvolvimento AdvPL
 * Desenvolvimento de APIs REST
 * Arquitetura de Software
 * Banco de Dados SQL
@@ -35,6 +40,7 @@ Atuação na implantação, administração e sustentação do ERP TOTVS Protheu
 
 - Implantação, parametrização e suporte ao ERP TOTVS Protheus.
 - Gerenciamento de ambientes no TOTVS TCloud, abrangendo Desenvolvimento, Qualidade e Produção.
+- Apoio em atividades de desenvolvimento, incluindo compilação de RDMakes e atualização e disponibilização de fontes desenvolvidos em ADVPL.
 - Administração e configuração do ambiente por meio do Configurador Protheus (SIGACFG).
 - Suporte às integrações entre soluções TOTVS e sistemas externos utilizando plataformas iPaaS.
 - Levantamento de requisitos, análise de regras de negócio e resolução de demandas técnicas e operacionais.
@@ -61,7 +67,7 @@ Minha atuação combina conhecimento funcional do ERP com atividades técnicas d
 
 ### Linguagens
 
-`C#` `Python` `SQL`
+`C#` `Python` `SQL` `AdvPL`
 
 ### Backend
 
@@ -77,6 +83,7 @@ Minha atuação combina conhecimento funcional do ERP com atividades técnicas d
 
 ### Cloud & Ferramentas
 
+`Totvs Tcloud`
 `AWS`
 `GCP`
 `Git`
@@ -85,19 +92,14 @@ Minha atuação combina conhecimento funcional do ERP com atividades técnicas d
 ### ERP
 
 `TOTVS Protheus`
-`ADVPL`
 
 ---
 
 ## 📈 Atualmente estudando
 
 * Arquitetura de Software
-* Clean Architecture
-* SOLID
-* Design Patterns
-* Docker
-* Microsserviços
-* Testes Automatizados
+* Linguagem AdvPL
+* C#, .NET
 * Python
 
 ---
